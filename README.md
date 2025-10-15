@@ -1,4 +1,3 @@
-
 👋 Hi, I’m Dikshit.
 👀 I’m interested in Data Science, Machine Learning , data engineering , etc.
 🌱 I’m currently learning SQL.

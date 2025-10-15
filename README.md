@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**Dikshit1910/Dikshit1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 👋 Hi, I’m Dikshit
 👀 I’m interested in Data Science, Machine Learning , data engineering , etc.

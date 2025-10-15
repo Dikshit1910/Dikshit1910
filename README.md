@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Dikshit
+👋 Hi, I’m Dikshit 
 👀 I’m interested in Data Science, Machine Learning , data engineering , etc.
 🌱 I’m currently learning SQL.
 💞️ I’m looking to collaborate on learning new things for future references

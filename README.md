@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dikshit.
+- 👋 Hi, I’m Dikshit. Working as Data Analyst @positivevibez.
 - 👀 I’m interested in Data Science & Analytics.
-- 🌱 I’m currently learning SQL.
-- 💞️ I’m looking to collaborate on learning new things for future references
+- 🌱 Proficient in Excel, SQL, Power BI, Python(Numpy, Pandas, Matplotlib, Seaborn),Statistics,ML,DL,CV & NLP. 
+- 💞️ I’m always looking to collaborate to learning new things. So, we can connect for thiss.
 - 😄 Pronouns: He/Him
-- ⚡ I am proficient in Python , Ambition to became Data Scientist
+- ⚡Open for roles : Data Science, Data Analyst, BI Developer and similar roles..
